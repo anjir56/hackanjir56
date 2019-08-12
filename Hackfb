@@ -1,6 +1,0 @@
-echo "# hackanjir56" >> README.md 
-git init 
-git tambahkan README.md 
-git commit -m "commit pertama" 
-git remote add origin https://github.com/anjir56/hackanjir56.git
- git push -u master asal

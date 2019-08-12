@@ -1,0 +1,8 @@
+$ Pkg update && Pkg upgrade
+$ Pkg install python2
+$ Pkg install git
+$ Pkg install mechanize
+$ pkg install requests
+$ git clone http://github.com/anjir56/hackfbtarget
+$ cd hackfbtarget
+$ python2 hackfbtarget.py
